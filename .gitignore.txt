@@ -1,0 +1,19 @@
+# Ignore Eclipse-specific files
+.settings/
+.classpath
+.project
+
+# Ignore build directories and compiled files
+bin/
+build/
+target/
+*.class
+*.log
+
+# Ignore IDE-specific directories
+.idea/
+*.iml
+
+# Optional: Ignore OS-specific files
+.DS_Store   # macOS
+Thumbs.db    # Windows
